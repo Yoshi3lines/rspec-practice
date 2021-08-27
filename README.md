@@ -28,3 +28,4 @@ more about Git, I recommend the free resources [Git Immersion] or [Try Git].
 [Try Git]: http://www.codeschool.com/courses/try-git
 
 8/14 開発ブランチを作成
+8/28 48ページ以降の開発をスタート
